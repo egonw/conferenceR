@@ -14,5 +14,5 @@ and speakers at this conference, this package is for you.
 The output for the second command looks like:
 
     Kutmon et al. WikiPathways: capturing the full diversity of pathway knowle...
-    http://dx.doi.org/10.1093/nar/gkv1024 … #example
+    https://doi.org/10.1093/nar/gkv1024 … #example
 
